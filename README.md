@@ -18,7 +18,7 @@
 
 - We created a standard folder structures as well, below is the screen shot for the POC code base.
 
-  ![image.png](/.attachments/image-28b2ba60-412e-4e16-888a-b88161f92aa8.png)
+  ![image](https://github.com/KrishnanTGB/Azure-AppService-Config--React/assets/45973601/e1df93be-3683-47a6-9091-40489400c96f)
 
 - We are accessing the values for the page level labels from the constant file for the Local Run.
 
