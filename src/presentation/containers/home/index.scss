@@ -1,0 +1,31 @@
+.home-page {
+  .heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    flex-grow: 1;
+    text-align: center;
+    margin-right: -190px;
+  }
+  p {
+    color: chocolate;
+  }
+  button {
+    z-index: 10;
+    width: 150px;
+    height: 40px;
+    margin: 0px 20px;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+    &:hover {
+      background-color: black;
+      color: aquamarine;
+      border: 2px solid aquamarine;
+    }
+  }
+}
